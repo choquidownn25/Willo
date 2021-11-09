@@ -1,10 +1,10 @@
 # Willop
 
-# Asp.Net-Core
-Api de desarrollo de la empresa Willop
+# Asp.Net-Core-Inventory-Order-Management-System
+PApi de desarrollo de la empresa Willop
 
 
-![inventory] (https://github.com/choquidownn25/Willo/blob/main/WebApplicationApi/Utilitis/Imagen.jpg)
+![inventory](https://github.com/choquidownn25/Willo/blob/main/WebApplicationApi/Utilitis/Imagen.jpg)
 
 
 
