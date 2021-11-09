@@ -21,7 +21,7 @@ PApi de desarrollo de la empresa Willop
 - Edit Profile
 - Change Password
 - Users, Roles and Memberships
-- 25+ CRUD Forms
+
 
 # Functional Features
 
