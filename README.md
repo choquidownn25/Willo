@@ -28,7 +28,7 @@ PApi de desarrollo de la empresa Willop
 
 # Development Tools & Environment
 
-- **Visual Studio 2017 (Community Edition)**. (https://visualstudio.microsoft.com/) 
+- **Visual Studio 2019 (Community Edition)**. (https://visualstudio.microsoft.com/) 
 - **Syncfusion JQuery Controls EJ1 (Community Edition)**. (https://www.syncfusion.com/products/communitylicense)
 
 
