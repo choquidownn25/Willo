@@ -1,6 +1,6 @@
 # Willop
 
-# Asp.Net-Core
+# Asp.Net 5.0
 PApi de desarrollo de la empresa Willop
 
 
