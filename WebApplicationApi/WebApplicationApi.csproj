@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CapaConexion">
+      <HintPath>bin\Debug\net5.0\CapaConexion.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaDomain">
+      <HintPath>bin\Debug\net5.0\CapaDomain.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaRepository">
+      <HintPath>bin\Debug\net5.0\CapaRepository.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaService">
+      <HintPath>bin\Debug\net5.0\CapaService.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

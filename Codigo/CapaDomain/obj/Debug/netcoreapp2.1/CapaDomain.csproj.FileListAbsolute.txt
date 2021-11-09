@@ -1,0 +1,17 @@
+C:\Sana\Codigo\CapaDomain\bin\Debug\netcoreapp2.1\CapaDomain.deps.json
+C:\Sana\Codigo\CapaDomain\bin\Debug\netcoreapp2.1\CapaDomain.dll
+C:\Sana\Codigo\CapaDomain\bin\Debug\netcoreapp2.1\CapaDomain.pdb
+C:\Sana\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.AssemblyInfoInputs.cache
+C:\Sana\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.AssemblyInfo.cs
+C:\Sana\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.csproj.CoreCompileInputs.cache
+C:\Sana\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.dll
+C:\Sana\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.pdb
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\bin\Debug\netcoreapp2.1\CapaDomain.deps.json
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\bin\Debug\netcoreapp2.1\CapaDomain.dll
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\bin\Debug\netcoreapp2.1\CapaDomain.pdb
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.csproj.AssemblyReference.cache
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.AssemblyInfoInputs.cache
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.AssemblyInfo.cs
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.csproj.CoreCompileInputs.cache
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.dll
+C:\Sana\ETFCorePerson\Codigo\CapaDomain\obj\Debug\netcoreapp2.1\CapaDomain.pdb
